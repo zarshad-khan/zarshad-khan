@@ -113,20 +113,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🏧 Python ATM Withdrawal System
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25" title="Python"/>
-</p>
-
-A beginner-friendly ATM withdrawal system developed using Python. It allows users to withdraw money, validates withdrawal amounts, checks available balance, and displays the remaining balance.
-
-**Technologies:** Python
-
-**Concepts:** Variables · User Input · Conditional Statements · Arithmetic Operators
-
-🔗 <a href="https://github.com/zarshad-khan/A-simple-ATM-withdrawal-system-built-using-Python" target="_blank">View Project on GitHub</a>
-
----
+<a href="https://github.com/zarshad-khan/A-simple-ATM-withdrawal-system-built-using-Python" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python - View ATM Project"/>
+</a>
