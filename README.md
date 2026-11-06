@@ -107,3 +107,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zarshad-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
+
+### 🚀 Featured Projects
+
+#### 🏧 Python ATM Withdrawal System
+
+A beginner-friendly ATM withdrawal system developed using Python. It allows users to withdraw money, validates withdrawal amounts, checks available balance, and displays the remaining balance.
+
+**Technologies:** Python
+
+**Concepts:** Variables · User Input · Conditional Statements · Arithmetic Operators
+
+🔗 **[View Project on GitHub](https://github.com/zarshad-khan/Python-ATM-Withdrawal-System)**
+
+---
