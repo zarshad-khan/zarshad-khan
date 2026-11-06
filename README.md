@@ -47,11 +47,11 @@
 
 <p align="left">
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+<a href="https://github.com/zarshad-khan/A-simple-ATM-withdrawal-system-built-using-Python" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python - View ATM Project"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
 </a>
 
@@ -113,6 +113,3 @@
 
 ---
 
-<a href="https://github.com/zarshad-khan/A-simple-ATM-withdrawal-system-built-using-Python" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python - View ATM Project"/>
-</a>
