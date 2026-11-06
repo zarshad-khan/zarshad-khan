@@ -109,6 +109,8 @@
 </p>
 ---
 
+---
+
 ### 🚀 Featured Projects
 
 #### 🏧 Python ATM Withdrawal System
